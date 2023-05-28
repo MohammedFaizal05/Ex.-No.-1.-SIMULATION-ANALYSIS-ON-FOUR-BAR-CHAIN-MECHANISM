@@ -54,8 +54,11 @@
 
 ## Output:
 
+![image](https://github.com/MohammedFaizal05/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/120553195/26a35e7f-2844-4df5-a5dd-af6418397f8f)
+
 
 ### Name: Mohammed Faizal.J
+
 ### Register Number: 212222100027
 
 ## RESULT:
